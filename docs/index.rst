@@ -6,11 +6,13 @@ How to Install HP Smart Printer?
    :caption: Contents:
 
 The HP Smart app is an essential tool for managing your HP printer, providing seamless printing, scanning, and troubleshooting capabilities.
+
 .. image:: click-install.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://softwareinstaller.net/
+
 
 
 This comprehensive guide will walk you through the complete installation process for HP Smart printer setup across different platforms and devices.
